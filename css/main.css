@@ -1,0 +1,34 @@
+body{
+	
+	padding: 0;
+	margin: 0;
+	font-family: Tahoma,serif;
+}
+table{
+	text-align:center;
+ border-collapse:collapse;
+	background-color:gray; 
+	font-weight:bold;
+	}
+a{outline:none; text-decoration:none;  color:black}
+
+	 A:hover { 
+    text-decoration: underline; 
+    color: blue; 
+	}
+	div{
+
+width: 1200px;
+margin: 20px auto;
+	}
+	aside,main {
+		width: 50%;
+		float: left;
+	}
+	main{
+		text-indent:1.5em;
+	}
+	p{
+		text-indent:1,5em;
+	}
+
